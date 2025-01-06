@@ -17,7 +17,12 @@
 ## Совместные проекты
 - [Платформа](https://github.com/ReiMowakari/api_yamdb), на которой можно оставлять рецензии и комментарии к произведениям. Вместе с [@ReiMowakari](https://github.com/ReiMowakari) и [@Keleseth](https://github.com/Keleseth) разработали API и автотесты по заданному ТЗ. На мне были разработка API для моделей произведений, жанров и категорий, а также написание management-команды для загрузки данных из csv-файлов в нужные модели.
 
-<!-- #TODO Добавить стек -->
+## Технологии, которыми я владею
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-092d1f?style=for-the-badge&logo=django&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
 
 ## Как со мной связаться
 - Телеграм: https://t.me/arefiture
