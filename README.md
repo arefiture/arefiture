@@ -17,6 +17,10 @@
 ## Совместные проекты
 - [Платформа](https://github.com/ReiMowakari/api_yamdb), на которой можно оставлять рецензии и комментарии к произведениям. Вместе с [@ReiMowakari](https://github.com/ReiMowakari) и [@Keleseth](https://github.com/Keleseth) разработали API и автотесты по заданному ТЗ. На мне были разработка API для моделей произведений, жанров и категорий, а также написание management-команды для загрузки данных из csv-файлов в нужные модели.
 
+## Тестовые задания
+
+- [Виджет погоды](https://github.com/arefiture/test-o-komplex), где можно выбрать один из городов России и посмотреть текущую погоду и погоду на ближайшие 7ч. Присутствует понятный графический интерфейс (фронт), написан с использованием Django + шаблон на HTML/CSS/JS+Bootstrap5+Select2
+
 ## Технологии, которыми я владею
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-092d1f?style=for-the-badge&logo=django&logoColor=white)
